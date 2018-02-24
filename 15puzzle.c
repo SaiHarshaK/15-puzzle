@@ -3,7 +3,7 @@
 
 // use     : The 15-Puzzle game 
 
-// very slow, only has 1 difficulty , no tutorial (only guide integrated)
+// Slow, only has 1 difficulty , no tutorial (only guide integrated)
 **********************************************************************/
 
 #include<stdio.h>
